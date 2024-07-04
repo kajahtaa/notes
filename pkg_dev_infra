@@ -22,5 +22,6 @@ py39-censys
 py39-click
 py39-pandas
 py39-requests
+py39-pip
 
 pip install git+git://github.com/tenable/pytenable.git#egg=pytenable
