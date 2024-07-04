@@ -1,0 +1,17 @@
+stuff that installs on new node:
+
+bash
+clamav
+curl
+git
+gitleaks
+gnupg
+jira
+jq
+nmap
+pinentry
+rpm4
+sshpass
+testssl.sh
+tmux
+wget
