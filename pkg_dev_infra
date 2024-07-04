@@ -15,3 +15,10 @@ sshpass
 testssl.sh
 tmux
 wget
+
+py39-ansible
+py39-boto3
+py39-censys
+py39-click
+py39-pandas
+py39-requests
